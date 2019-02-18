@@ -1,0 +1,8 @@
+git init
+git add .
+git commit -m "first commit"
+git remote add origin link_git
+git push -u origin master
+
+git clone link_github
+git pull
